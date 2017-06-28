@@ -7,7 +7,7 @@ import org.a3dgc.terraingeneration.MainGLRenderer;
 import javax.microedition.khronos.opengles.GL10;
 
 /**
- * Created by Gianmarco.
+ * Created by Gianmarco and Lorenzo
  */
 
 public class Cube extends Mesh {
